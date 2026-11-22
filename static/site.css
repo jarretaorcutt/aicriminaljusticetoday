@@ -107,3 +107,5 @@ main{padding-bottom:56px}
 .viz-time li{position:relative;margin:0 0 12px;padding-left:6px}.viz-time li:before{content:"";position:absolute;left:-21px;top:5px;width:10px;height:10px;border-radius:50%;background:#ff2bd6}
 .viz-time time{display:block;font:700 13px Inter,sans-serif;color:var(--navy)}.viz-time span{font-size:14px;color:var(--slate)}
 .viz-list ul{margin:0;padding-left:18px}.viz-list li{margin:6px 0;font-size:15px}
+
+.selall{margin:4px 0 10px}
